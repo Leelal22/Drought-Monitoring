@@ -1,12 +1,12 @@
-# AP Drought Monitoring V1 Synthetic Dataset
+#  Drought Monitoring V1 Synthetic Dataset
 
 Synthetic/development data only. Do not use for scientific or policy conclusions.
 
 26 districts x 10 years (2016-2025) x 12 months = 3,120 records.
 
 ## Files
-- ap_drought_synthetic_2016_2025_3120.csv
-- ap_drought_synthetic_2016_2025_3120.json (JSON Lines for mongoimport)
+- drought_synthetic_2016_2025_3120.csv
+- drought_synthetic_2016_2025_3120.json (JSON Lines for mongoimport)
 - generate_dataset.py
 - mongo_import_setup.js
 
